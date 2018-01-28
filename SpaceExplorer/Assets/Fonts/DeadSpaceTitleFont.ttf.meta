@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bbf7a2e507ac98844828de575f14c9f5
+timeCreated: 1517034077
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DeadSpaceTitleFont
+  fontNames:
+  - DeadSpaceTitleFont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
